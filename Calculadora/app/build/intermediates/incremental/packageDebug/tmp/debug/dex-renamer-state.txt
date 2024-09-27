@@ -1,0 +1,4 @@
+#Fri Dec 10 15:50:05 CET 2021
+base.0=E\:\\Materias\\m8\\2\\Calculadora\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

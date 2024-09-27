@@ -1,0 +1,4 @@
+#Mon Sep 30 17:36:42 CEST 2019
+base.0=D\:\\Niko\\AndroidStudioProjects\\UF1-1-A9_Contar_Lletres\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

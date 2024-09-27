@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ComunicacionActividades</string>
+    <string name="hello_world">Dame tu nombre y pulsa el boton</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ComunicacionActividades</string>
+</resources>

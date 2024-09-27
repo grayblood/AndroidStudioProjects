@@ -1,0 +1,4 @@
+#Fri Dec 03 15:39:53 CET 2021
+base.0=E\:\\Materias\\m8\\2\\UF1-1-A9_Contar_Lletres\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

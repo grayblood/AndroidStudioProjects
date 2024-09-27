@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <Button
+        android:id="@+id/Activity1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Pulsa si te da la gana"
+        android:text="Activity1" />
+    <Button
+        android:id="@+id/Activity2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Activity1"
+        android:layout_below="@+id/Activity1"
+        android:hint="Pulsa si te da la gana"
+        android:text="Activity2" />
+    <Button
+        android:id="@+id/Activity3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Activity2"
+        android:layout_below="@+id/Activity2"
+        android:hint="Pulsa si te da la gana"
+        android:text="Activity3" />
+
+    <TextView
+        android:id="@+id/Resultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Activity3"
+        android:layout_marginTop="29dp"
+        android:text="Resultado: " />
+
+    <TextView
+        android:id="@+id/Resultado2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@+id/Resultado"
+        android:layout_alignBottom="@+id/Resultado"
+        android:text="" />
+
+
+    <TextView
+        android:id="@+id/Resultado12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Resultado"
+        android:layout_marginTop="29dp"
+        android:text="Resultado: " />
+
+    <TextView
+        android:id="@+id/Resultado22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@+id/Resultado12"
+        android:layout_alignBottom="@+id/Resultado12"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Resultado31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Resultado12"
+        android:layout_marginTop="29dp"
+        android:text="Resultado: " />
+
+    <TextView
+        android:id="@+id/Resultado32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@+id/Resultado31"
+        android:layout_alignBottom="@+id/Resultado31"
+        android:text="" />
+
+
+
+</RelativeLayout>
